@@ -1,0 +1,2 @@
+# AzureFunctionAutomateTask
+local Functions project
